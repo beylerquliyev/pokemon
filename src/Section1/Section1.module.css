@@ -1,0 +1,22 @@
+.fullDiv{
+    
+    display: flex;
+    justify-content: space-between;
+   padding-left: 80px;
+   padding-right: 80px;
+}
+.score{
+    text-align: center;
+
+}
+.result{
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+margin: 0;
+}
+.vs{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900;
+}
